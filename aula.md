@@ -37,6 +37,7 @@ Boolean: true, false
 
 Operadores de atribuição de valor
 Operador de concatenação
+Operadores de comparação
 
 ## Estruturas de dados
 
@@ -62,8 +63,13 @@ Acesso a propriedades de objetos
 # Condicionais
 
 - Switch
+- If/else
 
 ## Módulos em Node.js:
 
 Importação de módulos (require, CommomJS)
 Biblioteca 'inquirer' para criar prompts interativos
+
+## Programação assíncrona e Promises: 
+
+Uso de funções assíncronas (async/await)
